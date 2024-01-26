@@ -1,5 +1,5 @@
 # Build and Deploy a Full Stack Social Media App (ReactJS + Firebase v9 + Chakra UI)
-Video Tutorial: https://youtu.be/ELyjd5OXZKI
+
 
 ## Packages used
 - react-firebase-hooks
